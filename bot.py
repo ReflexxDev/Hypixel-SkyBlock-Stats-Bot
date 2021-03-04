@@ -45,5 +45,5 @@ async def monitor(ctx, url, price):
             time.sleep(3)
 
 
-client.run("MzY3MDY5ODM4NzQyNTE5ODA4.WdvybQ.OAPTwwoBSXGtGDVKwFU3_454S8M")  # enter bot token here
+client.run("")  # enter bot token here
 
