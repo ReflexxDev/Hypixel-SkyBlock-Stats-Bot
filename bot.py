@@ -60,4 +60,4 @@ async def dungeons(ctx, name, pname):
     await ctx.send(embed=embed)
 
 
-Token = client.run("MzY3MDY5ODM4NzQyNTE5ODA4.WdvybQ.OAPTwwoBSXGtGDVKwFU3_454S8M")
+Token = client.run("")
